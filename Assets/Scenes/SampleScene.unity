@@ -313,7 +313,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   prefab: {fileID: 8988568060562350324, guid: 210670739781ca04b810060d4c7becde, type: 3}
-  spawnCount: 10000
+  spawnCount: 20000
   propertyBlock: 0
   randomColor: 1
-  randomColorCount: 100
+  randomColorCount: 20
+  randomTextures: 1
+  randomTexturesCount: 20
